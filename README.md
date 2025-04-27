@@ -14,7 +14,9 @@
 
 ## 🌟 Introduction
 
-Welcome to my Data Structures and Algorithms learning repository! This project documents my journey through understanding essential computer science concepts and implementing them using JavaScript. From basic array manipulations to complex algorithm patterns, everything is captured here with clear examples and explanations.
+Welcome to my Data Structures and Algorithms learning repository!  
+This project documents my journey through understanding essential computer science concepts and implementing them using JavaScript.  
+From basic array manipulations to complex algorithm patterns, everything is captured here with clear examples and explanations.
 
 Whether you're a fellow learner or just browsing, I hope these implementations and notes prove helpful in your own DSA journey.
 
@@ -69,6 +71,8 @@ Understanding algorithmic efficiency is crucial. Here's a quick reference:
 
 ## 📁 Repository Structure
 
+```plaintext
+Data-Structures-Using-JavaScript/
 ├── arrays/
 │   ├── README.md          # Explanation of array concepts
 │   ├── examples/          # Basic array operations
@@ -99,8 +103,6 @@ Understanding algorithmic efficiency is crucial. Here's a quick reference:
 ├── visualizations/        # Visual representations of concepts
 └── README.md              # This file
 
-
----
 
 ## 🚀 Getting Started
 
