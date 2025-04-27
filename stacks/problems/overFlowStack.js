@@ -25,7 +25,7 @@ class overFlowStack {
 
     pop(){
         if(this.size()==0){
-            throw new Error("Oops , Stack underslow")
+            throw new Error("Oops , Stack underflow")
         }
     }
 
