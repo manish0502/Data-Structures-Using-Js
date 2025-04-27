@@ -103,10 +103,7 @@ Data-Structures-Using-JavaScript/
 ├── visualizations/        # Visual representations of concepts
 └── README.md              # This file
 
-
-
-
----
+```
 
 ## 🚀 Getting Started
 
