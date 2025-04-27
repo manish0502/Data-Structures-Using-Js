@@ -26,20 +26,20 @@ Whether you're a fellow learner or just browsing, I hope these implementations a
 
 | Data Structure/Algorithm | Status | Topics Covered |
 |:------------------------:|:------:|:--------------|
-| [📦 Arrays & Strings](./arrays) | ✅ | Basic operations, Sliding Window, Two Pointers, Searching, Sorting |
-| [🔗 Linked Lists](./linked-lists) | ✅ | Single, Double, Circular, Reverse, Merge, Detect Cycles |
-| [📚 Stacks](./stacks) | ✅ | Implementation, Balanced Parentheses, Expression Evaluation, Min Stack |
-| [🧺 Queues](./queues) | ✅ | Implementation, Circular Queue, Priority Queue, BFS Applications |
-| [🌳 Trees](./trees) | ✅ | Binary Trees, BST, AVL, Tree Traversals (In/Pre/Post/Level-order) |
-| [📊 Heaps](./heaps) | 🔄 | Min/Max Heap, Heap Sort, Priority Queue Implementation |
-| [📈 Hash Tables](./hash-tables) | 🔄 | Implementation, Collision Resolution, Applications |
-| [🕸️ Graphs](./graphs) | 🔄 | Representations, BFS, DFS, Dijkstra's, Topological Sort |
-| [🧩 Recursion](./recursion) | ✅ | Base Cases, Call Stack, Classic Problems (Fibonacci, Factorial) |
-| [📝 Dynamic Programming](./dynamic-programming) | 🔄 | Memoization, Tabulation, Common DP Problems |
-| [🔍 Searching Algorithms](./searching) | ✅ | Binary Search, Linear Search, Jump Search |
-| [⚡ Sorting Algorithms](./sorting) | ✅ | Bubble, Selection, Insertion, Merge, Quick, Heap Sort |
-| [⚔️ Greedy Algorithms](./greedy) | 🔄 | Activity Selection, Huffman Coding, Dijkstra's |
-| [🧠 Problem-Solving Patterns](./patterns) | 🔄 | Sliding Window, Two Pointers, Fast & Slow Pointers |
+| [📦 Arrays & Strings](./arrays) |  📝 | Basic operations, Sliding Window, Two Pointers, Searching, Sorting |
+| [🔗 Linked Lists](./linked-lists) |  📝 | Single, Double, Circular, Reverse, Merge, Detect Cycles |
+| [📚 Stacks](./stacks) |  📝 | Implementation, Balanced Parentheses, Expression Evaluation, Min Stack |
+| [🧺 Queues](./queues) |  📝 | Implementation, Circular Queue, Priority Queue, BFS Applications |
+| [🌳 Trees](./trees) |  📝 | Binary Trees, BST, AVL, Tree Traversals (In/Pre/Post/Level-order) |
+| [📊 Heaps](./heaps) |  📝 | Min/Max Heap, Heap Sort, Priority Queue Implementation |
+| [📈 Hash Tables](./hash-tables) |  📝 | Implementation, Collision Resolution, Applications |
+| [🕸️ Graphs](./graphs) |  📝 | Representations, BFS, DFS, Dijkstra's, Topological Sort |
+| [🧩 Recursion](./recursion) |  📝 | Base Cases, Call Stack, Classic Problems (Fibonacci, Factorial) |
+| [📝 Dynamic Programming](./dynamic-programming) |  📝 | Memoization, Tabulation, Common DP Problems |
+| [🔍 Searching Algorithms](./searching) |  📝 | Binary Search, Linear Search, Jump Search |
+| [⚡ Sorting Algorithms](./sorting) |  📝 | Bubble, Selection, Insertion, Merge, Quick, Heap Sort |
+| [⚔️ Greedy Algorithms](./greedy) |  📝 | Activity Selection, Huffman Coding, Dijkstra's |
+| [🧠 Problem-Solving Patterns](./patterns) |  📝 | Sliding Window, Two Pointers, Fast & Slow Pointers |
 
 > **Legend:** ✅ - Completed, 🔄 - In Progress, 📝 - Planned
 
