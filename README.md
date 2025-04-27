@@ -104,6 +104,10 @@ Data-Structures-Using-JavaScript/
 └── README.md              # This file
 
 
+
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -121,3 +125,4 @@ node arrays/examples/two-sum.js
 
 # Run a sorting algorithm
 node algorithms/sorting/merge-sort.js
+
