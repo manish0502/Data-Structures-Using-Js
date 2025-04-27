@@ -123,3 +123,20 @@ node arrays/examples/two-sum.js
 # Run a sorting algorithm
 node algorithms/sorting/merge-sort.js
 
+```
+---
+
+## 📚 Learning Resources
+Books, courses, and websites that have been helpful in my journey:
+
+### 📖 Books
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell
+- *JavaScript Data Structures and Algorithms* by Sammie Bae
+- *Grokking Algorithms* by Aditya Bhargava
+
+### 🌐 Online Resources
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [JavaScript Algorithms GitHub](https://github.com/trekhleb/javascript-algorithms)
+- [Visualgo - Algorithm Visualizations](https://visualgo.net/)
+---
