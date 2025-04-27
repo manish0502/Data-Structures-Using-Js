@@ -140,3 +140,33 @@ Books, courses, and websites that have been helpful in my journey:
 - [JavaScript Algorithms GitHub](https://github.com/trekhleb/javascript-algorithms)
 - [Visualgo - Algorithm Visualizations](https://visualgo.net/)
 ---
+---
+
+## 🤝 Contributions
+
+While this is primarily a personal learning repository, suggestions and feedback are always welcome! Feel free to:
+
+- Open an issue for corrections
+- Suggest improvements or alternative solutions
+- Share resources that might be helpful
+
+---
+
+## 📝 Notes
+
+- All implementations focus on readability over optimization
+- Code snippets include time and space complexity analysis
+- Test cases are provided for most implementations
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+---
+
+<p align="center">
+  <strong>Happy Coding! 💻</strong><br>
+  <em>Remember: Every expert was once a beginner. Keep learning!</em>
+</p>
