@@ -57,3 +57,61 @@ test 4
 "([])" - true
 
  */
+
+
+// solution 2 - class based
+
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+
+class isValid {
+    constructor() {
+        this.stack = []
+    }
+
+    push(char) {
+        this.stack.push(char)
+    }
+
+    pop() {
+        return this.stack.pop()
+    }
+
+    isEmpty() {
+        return this.stack.length == 0
+    }
+
+    size() {
+        return this.stack.length
+    }
+
+    validate(s) {
+        if (s.length == 0) return false
+        for (let char of s) {
+            if (char === "(") {
+                this.push(")")
+            }
+            else if (char === "{") {
+                this.push("}")
+            }
+            else if (char === "[") {
+                this.push("]")
+            }
+
+            else {
+                let prevEle = this.pop()
+                if (prevEle !== char) return false
+            }
+
+        }
+         return this.isEmpty()
+    }
+}
+// Usage example:
+const validator = new isValid();
+console.log(validator.validate("{[()]}")); // true
+console.log(validator.validate("{[(])}")); // false
+
+
