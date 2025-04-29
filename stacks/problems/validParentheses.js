@@ -38,7 +38,7 @@ var isValid = function (s) {
 function isEmpty(){
     return stack.length == 0
 }
-return isEmpty();
+return isEmpty(); 
 
 };
 
