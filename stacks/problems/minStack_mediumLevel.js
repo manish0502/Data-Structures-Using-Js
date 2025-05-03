@@ -153,7 +153,7 @@ console.log(minStack.getMin()); // ➞ 3
 //   getMin(){
   
 //        if(this.stack.length ==0) return null;
-//        return this.stack[this.stack.length-1][0]
+//        return this.stack[this.stack.length-1][1]
 // }
 // }
 
