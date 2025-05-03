@@ -119,3 +119,51 @@ console.log(minStack.getMin()); // ➞ 3
 | `getMin()` | O(1) | -                   |
 
  */
+
+
+// Solution 2 : ✅ Implementation (Single Stack with Pair)
+
+
+// class MinStack {
+//   constructor(){
+//       this.stack = []
+//   }
+  
+//   push(val){
+//       if(this.stack.length==0){
+//           this.stack.push([val ,val])
+//       }
+//       else {
+//           let currentElm = Math.min(val ,this.stack[this.stack.length-1][1])
+//           this.stack.push([val ,currentElm])
+//       }
+//   }
+  
+//   pop(){
+//       if(this.stack.length >0) {
+//        this.stack.pop()
+//   }
+//   }
+  
+//   top(){
+//       if(this.stack.length ==0) return null;
+//       return  this.stack[this.stack.length-1][0]
+//   }
+   
+//   getMin(){
+  
+//        if(this.stack.length ==0) return null;
+//        return this.stack[this.stack.length-1][0]
+// }
+// }
+
+
+// const minStack = new MinStack();
+// minStack.push(12);   // Stack: [[12, 12]]
+// minStack.push(15);   // Stack: [[12, 12], [15, 12]]
+// minStack.push(10);   // Stack: [[12, 12], [15, 12], [10, 10]]
+
+// console.log(minStack.getMin()); // ➞ 10
+// minStack.pop();                // Removes [10, 10]
+// console.log(minStack.getMin()); // ➞ 12
+// console.log(minStack.top());    // ➞ 15
