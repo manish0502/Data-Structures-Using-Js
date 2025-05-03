@@ -25,3 +25,19 @@ var reverseString = function(s) {
 let s = ["h", "e", "l", "l", "o"];
 reverseString(s);
 console.log(s);  // Output: ['o', 'l', 'l', 'e', 'h']
+
+
+// method 2 
+
+const reverseString = function(s){
+    let rev =[]
+    while(s.length>0){
+         let item = s.pop()
+         rev.push(item)
+    }
+   
+    return rev
+}
+
+let rev= reverseString(["h","e","l","l","o"])
+console.log('Reversal',rev)// [ 'o', 'l', 'l', 'e', 'h' ]
