@@ -28,8 +28,8 @@ Whether you're a fellow learner or just browsing, I hope these implementations a
 |:------------------------:|:------:|:--------------|
 | [📦 Arrays & Strings](./arrays) |  📝 | Basic operations, Sliding Window, Two Pointers, Searching, Sorting |
 | [🔗 Linked Lists](./linked-lists) |  📝 | Single, Double, Circular, Reverse, Merge, Detect Cycles |
-| [📚 Stacks](./stacks) |   🔄 | Implementation, Balanced Parentheses, Expression Evaluation, Min Stack |
-| [🧺 Queues](./queues) |  📝 | Implementation, Circular Queue, Priority Queue, BFS Applications |
+| [📚 Stacks](./stacks) |   ✅ | Implementation, Balanced Parentheses, Expression Evaluation, Min Stack |
+| [🧺 Queues](./queues) |    🔄 | Implementation, Circular Queue, Priority Queue, BFS Applications |
 | [🌳 Trees](./trees) |  📝 | Binary Trees, BST, AVL, Tree Traversals (In/Pre/Post/Level-order) |
 | [📊 Heaps](./heaps) |  📝 | Min/Max Heap, Heap Sort, Priority Queue Implementation |
 | [📈 Hash Tables](./hash-tables) |  📝 | Implementation, Collision Resolution, Applications |
